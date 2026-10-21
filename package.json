@@ -1,0 +1,25 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gahlotaryan20-dotcom/week-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gahlotaryan20-dotcom/week-4/issues"
+  },
+  "homepage": "https://github.com/gahlotaryan20-dotcom/week-4#readme",
+  "dependencies": {
+    "mongoose": "^9.11.2"
+  },
+  "devDependencies": {}
+}
